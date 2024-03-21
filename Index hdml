@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open Your Eyes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Open Your Eyes</h1>
+        <form action="#" method="GET">
+            <input type="text" name="search" id="search" placeholder="Search...">
+            <button type="submit">Search</button>
+        </form>
+    </header>
+
+    <!-- Main Content Section -->
+    <main>
+        <section>
+            <h2>Welcome to Open Your Eyes</h2>
+            <p>Discover real facts about the world.</p>
+        </section>
+        <section>
+            <h2>Latest Facts</h2>
+            <!-- Insert dynamic content here -->
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Open Your Eyes. All rights reserved.</p>
+    </footer>
+
+    <!-- Optional ChatGPT Interaction -->
+    <div id="chatgpt">
+        <!-- ChatGPT interface goes here -->
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
